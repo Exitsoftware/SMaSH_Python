@@ -1,5 +1,5 @@
 import random
-answer = random.randrange(1,100)
+answer = random.randrange(1,101)
 
 count = 0
 while(True):
